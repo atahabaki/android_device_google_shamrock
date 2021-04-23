@@ -1,3 +1,8 @@
+# Bootanimation stuff...
+TARGET_SCREEN_WIDTH := 1080
+TARGET_SCREEN_HEIGHT := 1920
+TARGET_BOOTANIMATION_HALF_RES := true
+
 # Device specifications...
 PRODUCT_DEVICE := shamrock
 PRODUCT_NAME := lineage_shamrock
